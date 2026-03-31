@@ -4,7 +4,7 @@
 
 # --- Timnas Indonesia ---
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",KUALIFIKASI PIALA DUNIA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",KUALIFIKASI PIALA DUNIA
 
 
 
@@ -128,19 +128,19 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/in
 #EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="CHANNEL | SPORT INDO",SPORTSTARS 4 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png", ID:BEIN Sports 1 HD
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png", ID:BEIN Sports 1 HD
 http://filex.me:8080//live/MAS101A/MAS101AABB/501229.ts
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png", ID:BEIN Sports 3 HD
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png", ID:BEIN Sports 3 HD
 http://filex.me:8080//live/MAS101A/MAS101AABB/501230.ts
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png", ID:TVRI Sport HD
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png", ID:TVRI Sport HD
 http://filex.me:8080//live/MAS101A/MAS101AABB/501299.ts
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png", ID:MNC Sports HD
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png", ID:MNC Sports HD
 http://filex.me:8080//live/MAS101A/MAS101AABB/302275.ts
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png", ID:Spotv 1 HD
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png", ID:Spotv 1 HD
 http://filex.me:8080//live/MAS101A/MAS101AABB/302214.ts
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png", ID:Spotv 2 HD
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png", ID:Spotv 2 HD
 http://filex.me:8080//live/MAS101A/MAS101AABB/302215.ts
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png", ID:NBA TV HD
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png", ID:NBA TV HD
 http://filex.me:8080//live/MAS101A/MAS101AABB/501267.ts
 #EXTINF:-1 tvg-logo="https://hifight.it/wp-content/uploads/2021/11/hifight-600x600-1.jpg" group-title="CHANNEL | SPORT INDO", Hi-Fight Supersport
 http://49.0.64.96:8007/HIFIGHT
@@ -263,7 +263,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 --
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | TIMNAS🇮🇩
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | TIMNAS🇮🇩
 
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYXFj6ha8tZSy&s=10" group-title="LIVE | TIMNAS🇮🇩", INDONESIA VS TAJIKISTAN
@@ -283,11 +283,11 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png" group-title="LIVE | TIMNAS🇮🇩", LIVE 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png" group-title="LIVE | TIMNAS🇮🇩", LIVE 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
 
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png.jpg" group-title="LIVE | TIMNAS🇮🇩", LIVE 2
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png.jpg" group-title="LIVE | TIMNAS🇮🇩", LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
@@ -327,7 +327,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
 =========================================== Malaysia ===========================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | MALAYSIA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | MALAYSIA
 
 #EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
@@ -380,7 +380,7 @@ https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 //Collected by MAYTOKO2 menampilkan playlist >>> MUSIC
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | MUSIC
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | MUSIC
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.pinimg.com/236x/94/90/6f/94906fc8c2fe3921e5e17355390b22cc.jpg", CITRA DANGDUT 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -570,7 +570,7 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 ####################################################
 ####################################################
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | INDONESIA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | INDONESIA
 
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png", VTV 
@@ -767,7 +767,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.
 
 DAERAH
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | DAERAH
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | DAERAH
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
@@ -866,7 +866,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 ######################
 ######## News #########
 ######################
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | NEWS
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | NEWS
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="CHANNEL | NEWS",CNN INT
@@ -1036,7 +1036,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 =========TAIWAN🇭🇰🇹🇼==============
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | HK/TAIWAN
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | HK/TAIWAN
 
 #EXTINF:-1 group-title="CHANNEL | HK/TAIWAN" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
@@ -1140,7 +1140,7 @@ SINGAPURA
 
 
 ===================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | SINGAPORE
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | SINGAPORE
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -1262,7 +1262,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 =========================================== HBO GROUP ===========================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | group-title="CHANNEL | HBO GRUB"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | group-title="CHANNEL | HBO GRUB"
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="CHANNEL | HBO GRUB",HBO
@@ -1301,7 +1301,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-32846
 ########################
 ######## CHANNEL | RELIGI #######
 ########################
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | RELIGI
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | RELIGI
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="CHANNEL | RELIGI", KINGDOM OF SAUDI ARABIA 1
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -1469,7 +1469,7 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
 
 ========== LIVE | PROLIGA ===========
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | PROLIGA 2026
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | PROLIGA 2026
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg"" group-title="LIVE | PROLIGA 2026", LIVE 1
 https://github.com/Cutsiffa/pl/blob/main/Loc/Moj.m3u8
@@ -1479,7 +1479,7 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Moj.m3u8
 
 ///// MUSIK /////
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | MUSIC
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | MUSIC
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
@@ -1762,7 +1762,7 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 ######## LIVE | F1 ######
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | FORMULA 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | FORMULA 1
 
 #EXTINF:-1 group-title="LIVE | FORMULA 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png",114. ID:Bein Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1783,7 +1783,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 =======================================MotoGP====================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | MotoGP
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | MotoGP
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1800,7 +1800,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 ######## LIVE | UFC ######
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | UFC
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | UFC
 
 
 #EXTINF:-1 tvg-id="" tvg-name="USA: UFC CHANNEL" tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="LIVE | UFC",USA: UFC CHANNEL
@@ -1816,7 +1816,7 @@ http://vipqutnnapi.top:8080/VIP0199169358094917/21693580949/129980
 
 =======================================BeIN SPORT====================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | BEIN SPORT
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | BEIN SPORT
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1852,7 +1852,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 =========================================== SPORTS======================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | SPORTS
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | SPORTS
 
 
 #EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="CHANNEL | SPORTS",DAZN FAST
@@ -2897,7 +2897,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 //========================================================================
 //MAYTOKO2 LIVE | BADMINTON
 //========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | BADMINTON 2026
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | BADMINTON 2026
 
 
 #EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON 2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 1
@@ -2993,7 +2993,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ita2&type=m3u8
 
 
 =====================================LIVE | LIGA JERMAN========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | LIGA JERMAN
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | LIGA JERMAN
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="LIVE | LIGA JERMAN", CH 1
@@ -3034,7 +3034,7 @@ https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-w
 
 
 =====================================LIVE | LALIGA========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | LALIGA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | LALIGA
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3056,7 +3056,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 ======================= LIVE | LIGA INGGRIS ====================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | LIGA INGGRIS
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | LIGA INGGRIS
 ----
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIVE | LIGA INGGRIS",Hub Premier1 HD
@@ -3160,7 +3160,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl5&type=m3u8
 
 
 ==============================================LIVE | UCL============================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",LIVE | UCL
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",LIVE | UCL
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3210,7 +3210,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl5&type=m3u8
 #######################################################################
 ############ INDIHOME #################################################
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | INDIHOME
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | INDIHOME
 
 #EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Indosiar 
 http://202.169.224.202:8800/udp/239.9.1.25:1234
@@ -3289,7 +3289,7 @@ http://202.169.224.202:8800/udp/239.9.1.24:1234
 
 ===China provinsi 🇨🇳===
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",group-title="CHANNEL | CCTV CHINA"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",group-title="CHANNEL | CCTV CHINA"
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CHANNEL | CCTV CHINA",CCTV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -3330,7 +3330,7 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
 /////////CHANNEL | VISION+////////! 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | FIRSTMEDIA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | FIRSTMEDIA
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="CHANNEL | FIRSTMEDIA",DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -4165,7 +4165,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 //========================================================================
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | KNOWLEDGE
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | KNOWLEDGE
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CHANNEL | KNOWLEDGE", HGTV 
@@ -4316,7 +4316,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 //Collected by Maytoko2 menampilkan playlist >>> LIFESTYLE
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | LIFESTYLE
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | LIFESTYLE
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4469,7 +4469,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 //Collected by menampilkan playlist >>> CHANNEL | ENTERTAINMENT
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | ENTERTAINMENT 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | ENTERTAINMENT 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
@@ -5018,7 +5018,7 @@ http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
 
 ======================== CHANNEL | MOVIES ====================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | MOVIES
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | MOVIES
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/53/80/08/5380089f8dd4b84acdfd3669c4301368.jpg" group-title="CHANNEL | MOVIES"tvg-id="IMC.di" tvg-name="IMC", IMC
@@ -5494,7 +5494,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 ########## CHANNEL INDONESIA PREMIUM ##########
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | VISON+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | VISON+
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6281,7 +6281,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/in
 ############## WORLD TV ###########
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | WORLD TV
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | WORLD TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
@@ -6484,7 +6484,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 ######-INDO VIP-#######
 ########################
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | INDONESIA VIP
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | INDONESIA VIP
 
 
 #EXTINF:-1 group-logo="https://balatack.my.id/Logobalatacktv.png"tvg-id="TRANSVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10" group-title="CHANNEL | INDONESIA VIP",Trans TV
@@ -7309,7 +7309,7 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb2
 ######-INDO VIP-#######
 ########################
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | INDONESIA DIGITAL
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | INDONESIA DIGITAL
 
 
 
@@ -7376,7 +7376,7 @@ http://103.66.62.83:8000/play/a00d/index.m3u8
 ######-KOREAN CHANNEL-#######
 ########################
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/nontonsaja/refs/heads/main/logotv.png",CHANNEL | KOREA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/omreset/publicstuf/refs/heads/main/logotv.png",CHANNEL | KOREA
 
 
 #EXTINF:-1 group-title="CHANNEL | KOREA" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",K+
